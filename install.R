@@ -1,6 +1,7 @@
 install.packages('tidyverse')
-install.packages('keras')
+install.packages('devtools')
 install.packages('magick')
 install.packages('tesseract')
 install.packages('caret')
-
+devtools::install_github('rstudio/keras')
+# install.packages('keras')
