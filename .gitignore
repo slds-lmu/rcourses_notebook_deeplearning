@@ -1,2 +1,3 @@
-# do not push models
-*.h5
+# do not push checkpoints etc
+.Rapp*
+.ipynb*
